@@ -39,3 +39,6 @@ You can also make **if else** statements, allowing you to give multiple scenario
     else:
         print("not seven")
 
+## Summary
+ - The two basic loops, **for loop** and **while loop** are used for repeating blocks of code
+ - **If statements** allow for conditional code execution
